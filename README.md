@@ -1,6 +1,6 @@
 # Parkinson-Disease-Detection
 
-**Overview**
+**Overview**<br />
 This repository contains code for analyzing a dataset related to Parkinson's disease using machine learning techniques. The code demonstrates data preprocessing, visualization, model training, and evaluation to gain insights into the dataset and build predictive models. It is an supervised machine learning model.
 
 **Dataset**
